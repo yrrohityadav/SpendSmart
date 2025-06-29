@@ -12,7 +12,8 @@ SpendSmart is a full-stack expense tracker web application that helps users mana
 
 ## 📸 Demo
 
- 
+ ![image](https://github.com/user-attachments/assets/c9d9c28b-25ab-42a7-a325-f0a4f3cb71ef)
+
 ![image](https://github.com/user-attachments/assets/b318d4fe-0659-4a97-86a9-65ea99930e8e)
 ![image](https://github.com/user-attachments/assets/6edba29c-3662-4c04-887e-fb187dd89e49)
 ![image](https://github.com/user-attachments/assets/a7b25b7b-16e7-4ae6-b12b-3ee5b1b165e0)
