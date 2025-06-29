@@ -1,6 +1,10 @@
 const express = require('express');
 const router = express.Router();
 const Expense = require('../models/Expense');
+const verifyFirebaseToken = require('../middleware/firebaseAuth'); // ✅ added
+
+// Apply auth middleware to all routes
+router.use(verifyFirebaseToken);
 
 // Get all expenses
 router.get('/', async (req, res) => {
