@@ -7,7 +7,9 @@ SpendSmart is a full-stack expense tracker web application that helps users mana
 ## 🔗 Live Preview
 🚧 *Coming Soon*  
  
-
+for demo use 
+email-user@gmail.com
+pass-password
 ---
 
 ## 📸 Demo
